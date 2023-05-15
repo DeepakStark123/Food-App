@@ -1,0 +1,17 @@
+PS D:\flutter project\food_app\android> keytool -list -v -alias androiddebugkey -keystore C:\Users\Efficacious\.android\debug.keystore
+Enter keystore password:  
+Alias name: androiddebugkey
+Creation date: 16-Apr-2023
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: C=US, O=Android, CN=Android Debug
+Issuer: C=US, O=Android, CN=Android Debug
+Serial number: 1
+Valid from: Sun Apr 16 13:13:39 IST 2023 until: Tue Apr 08 13:13:39 IST 2053
+Certificate fingerprints:
+         SHA1: 34:87:E2:62:AB:83:86:B8:D2:BC:4E:F1:D1:DA:78:4B:46:76:C9:B6
+         SHA256: 0E:69:6D:0C:D9:90:AB:EC:7A:8A:CA:64:A1:9F:1D:37:F1:B8:0A:97:41:22:5D:D4:B3:CB:ED:BE:C6:0B:67:0F
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 1
